@@ -59,6 +59,10 @@
         background-color: white;
     }
 
+    .btn:visited {
+        background-color: white;
+    }
+
     .minus-btn {
         color: black;
         border-radius: 60%;
