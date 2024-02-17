@@ -1,0 +1,155 @@
+    /*Desktop e Monitor >1280px*/
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arimo, sans-serif;
+    }
+
+    body {
+        background: linear-gradient(to right,black,rgb(32, 31, 31));
+    }
+
+    .heading {
+        color:white;
+        font-size: 100px;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+    }
+
+    .counter-container {
+        display: flex;
+        flex-direction: row;
+        justify-content:center;
+        align-items:center;
+        margin-top:50px;
+    }
+
+    .box-container {
+        display:flex;
+        width:200px;
+        justify-content: center;
+    } 
+
+    .counter {
+        color: white;
+        font-size: 80px;
+    }
+
+    .btn {
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        width:50px;
+        height:50px;
+        font-weight: bold;
+        cursor:pointer;
+        background-color: white;
+        border-color: white;
+    }
+
+    .btn:hover {
+        background-color: rgba(255,255,255, 0.8);
+    }
+
+    .minus-btn {
+        color: black;
+        border-radius: 60%;
+        font-size: 20px;
+    }
+    .plus-btn {
+        color: black;
+        font-size: 20px;
+        border-radius: 60%;
+    }
+
+    .reset-container {
+        display:flex;
+        flex-direction: column;
+        justify-content:center;
+        align-items:center;
+        margin-top:90px;
+
+    }
+    .reset-btn {
+        color: black;
+        font-size:20px;
+        font-weight: 600;
+        justify-content: center;
+        align-items: center;
+        border-radius: 10%;
+        padding-left:50px;
+        padding-right:50px;
+    }
+
+    /*Smartphone piccole dimensioni*/
+    
+    @media only screen and (max-width: 480px){     
+
+    .heading {
+        font-size: 50px;
+        padding-top:30px;
+    }
+
+    .counter-container {
+
+        flex-direction: column;
+    }
+
+    .counter {
+        font-size: 150px;
+    }
+
+    .box-container {
+        order:-1;
+    }
+
+   .minus-container {
+    flex-direction: row;
+    margin-top: 30px;
+    order:1;
+   }
+
+   .plus-container {
+    flex-direction:row;
+    padding:0;
+    margin-top: 50px;
+   }
+
+   .reset-container {
+    margin-top: 30px;
+   }
+
+}
+
+
+    /*Smartphone orizzontali e Tablet*/
+    @media only screen and (min-width: 481px) and (max-width: 768px){  
+
+    .heading {
+        font-size: 70px;
+    }   
+
+    .counter-container {
+        margin-top: 70px;
+    }
+
+    }
+
+    /*Tablet orizzontali, Desktop e Monitor di piccole dimensioni*/
+    @media only screen and (min-width: 769px) and (max-width: 1279px){ 
+        .heading {
+            font-size: 90px;
+        }  
+
+
+        .reset-container {
+            margin-top: 50px;
+        }
+    }
+
+
+
