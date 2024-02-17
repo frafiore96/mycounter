@@ -72,7 +72,12 @@ function displayResult() {
     counter.innerHTML = result.toString();
 }
 
-
+const btns = document.querySelectorAll(".btn");
+for (let btn of btns) {
+    btn.addEventListener("dblclick", e => {
+        e.preventDefault();
+    })
+}
 
             
 
