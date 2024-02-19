@@ -2,7 +2,7 @@
 
 # <h1>MyCounter App</h1>
 
-<p><strong>myCounter<strong>è l’app che ho sviluppato come progetto del corso JavaScript Basics di Start2Impact. <br>
+<p>myCounter è l’app che ho sviluppato come progetto del corso JavaScript Basics di Start2Impact. <br>
 Si tratta di un counter che permette all’utente di aumentare o decrementare il valore impostato a 0 tramite l’utilizzo di due pulsanti: “+” e “-”. 
 Ho aggiunto inoltre un terzo pulsante: il “reset”, in grado di resettare il valore a 0. <br>
 Puoi accedere all'app <a href=https://ff-mycounter.netlify.app>qui</a>.</p>
