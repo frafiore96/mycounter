@@ -17,12 +17,12 @@ Puoi accedere all'app <a href=https://ff-mycounter.netlify.app>qui</a>.</p>
 
 ## Come Usare
 
-1. Apri il link dell'applicazione: <a href="https://ff-mycounter.netlify.app">myCounter App</a>).
+1. Apri il link dell'applicazione: <a href="https://ff-mycounter.netlify.app">myCounter App</a>.
 2. Utilizza i pulsanti "+" e "-" per aumentare o diminuire il valore o "reset" per tornare a 0.
 
 <p align="right">(<a href="#readme-top">Torna su</a>)</p> 
 
-## Screenshot
+## Homepage
 
 <a href="https://ff-mycounter.netlify.app"><img src=assets/img/screenshot.png></a>
 
@@ -39,7 +39,7 @@ Puoi accedere all'app <a href=https://ff-mycounter.netlify.app>qui</a>.</p>
 
 <p align="right">(<a href="#readme-top">Torna su</a>)</p> 
 
-## Contact
+## Contacts
 
 Francesco Fiorentino - [LinkedIn](https://www.linkedin.com/in/francesco-fiorentino-8a854216a/)
 
