@@ -9,6 +9,8 @@
 
     body {
         background: linear-gradient(to right,black,rgb(32, 31, 31));
+        width: 100vw;
+        height: 100vh;
     }
 
     .heading {
