@@ -24,11 +24,18 @@ Puoi accedere all'app <a href=https://ff-mycounter.netlify.app>qui</a>.</p>
 
 ## Screenshot
 
-<a img src=assets/img/screenshot.png href=https://ff-mycounter.netlify.app></a>
+<a href="https://ff-mycounter.netlify.app"><img src=assets/img/screenshot.png></a>
 
 <p align="right">(<a href="#readme-top">Torna su</a>)</p> 
 
 ## Responsive
+
+<p>Il sito è 100% responsive e fruibile sia dal web sia da mobile. <br>
+
+- Desktop e Monitor > 1280px
+- Smartphone piccole dimensioni < 480px
+- Smartphone orizzontali e Tablet > 481px < 768px
+- Tablet orizzontali, Desktop e Monitor di piccole dimensioni > 769px < 1279px
 
 <p align="right">(<a href="#readme-top">Torna su</a>)</p> 
 
